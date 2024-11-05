@@ -13,7 +13,9 @@
     "@onflow/fcl": "^1.12.3",
     "@onflow/types": "^1.4.0",
     "axios": "^1.7.7",
-    "ethers": "^6.13.4"
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "mongodb": "^6.10.0"
   },
   "devDependencies": {
     "@types/eventsource": "^1.1.15"
